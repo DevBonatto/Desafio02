@@ -21,7 +21,7 @@ O intuito desse desafio era replicar um layout proposto pela RocketSeat
 
 Proposta:
 <p align="center">
-  <img alt="Desenho de uma pessoa vestindo uma camisa amarela em uma sala com móveis" src="images/result.png" width="100%">
+  <img alt="Desenho de uma pessoa vestindo uma camisa amarela em uma sala com móveis" src="images/challenge.png" width="100%">
 </p>
 
 
