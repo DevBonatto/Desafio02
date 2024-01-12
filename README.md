@@ -21,12 +21,12 @@ O intuito desse desafio era replicar um layout proposto pela RocketSeat
 
 Proposta:
 <p align="center">
-  <img alt="Desenho de uma pessoa vestindo uma camisa amarela em uma sala com móveis" src="images/challenge.png" width="100%">
+  <img alt="Proposta Projeto" src="images/challenge.png" width="100%">
 </p>
 
 
 ## ✅ Resultado
-- [Acesse o resultado finalizado do Desafio 01, online](https://devbonatto.github.io/Desafio02/).
+- [Acesse o resultado finalizado do Desafio 02, online](https://devbonatto.github.io/Desafio02/).
 
 
 ## 🔖 Layout
