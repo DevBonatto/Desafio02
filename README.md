@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio 02 </h1>
+<h1 align="center"> Landing Page - Desafio 02 </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
